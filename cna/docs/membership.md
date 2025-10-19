@@ -2,6 +2,14 @@
 
 Cloud Native Austria is all about building and fostering communities.
 
+<p>
+    <a
+        href="https://docs.google.com/forms/d/e/1FAIpQLSfNgh1PL2C7puKEx6Mvsj1ca6pc0nEoxQAgMuq8jqkd4rjaTA/viewform?usp=dialog"
+        target="_blank"
+        className="button button--primary button--lg"
+    >Become a Member of Cloud-Native Austria 🇦🇹</a>
+</p>
+
 Our goal is to improve the cloud native ecosystem in Austria, by building stronger and more active communities.
 By becoming a member of Cloud Native Austria, you take an active step towards this goal.
 Your membership and contribution will not only help the Austrian community, but will help your local community even more.
@@ -30,3 +38,11 @@ Community Benefits:
 - Each member can use CNA Chapter to organize Cloud Native Events in Austria
 - A unique Cloud Native community-specific email address is issued, adding a professional touch.
 - The community gains visibility by being listed on the Cloud Native Austria website, boosting its profile.
+
+<p>
+    <a
+        href="https://docs.google.com/forms/d/e/1FAIpQLSfNgh1PL2C7puKEx6Mvsj1ca6pc0nEoxQAgMuq8jqkd4rjaTA/viewform?usp=dialog"
+        target="_blank"
+        className="button button--primary button--lg"
+    >Become a Member of Cloud-Native Austria 🇦🇹</a>
+</p>
